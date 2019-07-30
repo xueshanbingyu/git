@@ -12,4 +12,4 @@ git change
 
 learnning github
 
-hahahah
+creating a new branch is quick and simple
