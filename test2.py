@@ -1,5 +1,4 @@
-print("test")
 import time
-print("hello world")
+t = time.time()
+print(t)
 print(time.strftime("%Y-%m-%d %H:%M:%S"))
-
