@@ -1,8 +1,0 @@
-print("hello world")
-print("I'm 程特博")
-print("I'm learnning python")
-print("I'm learnning git")
-print("I'm learnning mysql")
-print("I'm learnning linux")
-print("I'm learnning Django")
-print("hello git branch")
